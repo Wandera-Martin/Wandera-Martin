@@ -6,7 +6,7 @@ Data Engineer | Gen AI Engineer | UX Designer
 
 I am learning to be a Data Engineer and build data solutions
 
-* 🌍  I'm based in Uganda
+* 🌍  I'm based in Kampala,Uganda
 * 🖥️  See my portfolio at [MyPorfolio](http://sites.google.com/view/martin-wandera)
 * ✉️  You can contact me at [martinwadera@gmail.com](mailto:martinwadera@gmail.com)
 * 🧠  I'm learning  to be a Data Engineering
