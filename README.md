@@ -9,7 +9,7 @@ I am learning to be a Data Engineer and build data solutions
 * 🌍  I'm based in Uganda
 * 🖥️  See my portfolio at [MyPorfolio](http://sites.google.com/view/martin-wandera)
 * ✉️  You can contact me at [martinwadera@gmail.com](mailto:martinwadera@gmail.com)
-* 🧠  I'm learning I am learning to be a Data Engineering tools like Apache Airflow, Kafka
+* 🧠  I'm learning  to be a Data Engineering
 * 🤝  I'm open to collaborating on Interested in collaborating on projects to create data-driven solutions.
 * ⚡  I'm a passionate data enthusiast driven by the power of data to transform businesses and experiences. I find solace and inspiration in the beautiful game of football and the rhythm of music
 
