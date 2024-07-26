@@ -35,7 +35,4 @@ I am a Data Engineer and a Gen AI enthusiast, I have a passion for learning and 
     <td><a href="http://www.github.com/Wandera-Martin"><img src="https://github-readme-stats.vercel.app/api?username=Wandera-Martin&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="Wandera-Martin's GitHub stats" /></a></td>
     <td><a href="http://www.github.com/Wandera-Martin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Wandera-Martin&stroke=ffffff&background=22272e&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/Wandera-Martin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandera-Martin&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></td>
-  </tr>
 </table>
