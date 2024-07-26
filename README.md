@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer | Gen AI Engineer | UX Designer
 ---------------------------------------------
 
-I am learning to be a Data Engineer and build data solutions
 
-* 🌍  I'm based in Kampala,Uganda
+I am a Data Engineer and a Gen AI enthusiast, I have a passion for learning and sharing my knowledge. Proficient in building and optimizing scalable data pipelines, ensuring data quality, and leveraging big data technologies to support advanced analytics and decision-making.
+
+* 🌍  I'm based in Kampala, Uganda
 * 🖥️  See my portfolio at [MyPorfolio](http://sites.google.com/view/martin-wandera)
 * ✉️  You can contact me at [martinwadera@gmail.com](mailto:martinwadera@gmail.com)
-* 🧠  I'm learning  to be a Data Engineering
-* 🤝  I'm open to collaborating on Interested in collaborating on projects to create data-driven solutions.
+* 🧠  I'm a Junior Data Engineering
+* 🤝  I'm currently  working on improving my Data Engineering and Generative AI Engineering skills
 * ⚡  I'm a passionate data enthusiast driven by the power of data to transform businesses and experiences. I find solace and inspiration in the beautiful game of football and the rhythm of music
 
 ### Skills
